@@ -1,7 +1,7 @@
 <h1>Ron Hideki L. Kawachi </h1>
 <span>BS - Information Systems</span>
 <br></br>
-<a href="https://www.dlsu.edu.ph/"><img id="dlsu" src="./DLSU.png" alt="DLSU logo" width="100px"></img><a>
+<a href="https://www.dlsu.edu.ph/"><img id="dlsu" src="./Resources/DLSU.png" alt="DLSU logo" width="100px"></img><a>
 <br></br>
 
 <h4>
@@ -20,8 +20,3 @@ I'm primarily focused on full-stack web development using Javascript frameworks 
 <h5>Front End</h5>
 
 <h5>Back End</h5>
-
-
-
-
-
