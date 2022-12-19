@@ -1,7 +1,7 @@
 <h1>Ron Hideki L. Kawachi</h1>
 <p>De La Salle University Manila</p>
 <p>BS - Information Systems (2019-2024)</p>
-<a href="https://www.dlsu.edu.ph/"><img id="dlsu" src="./Resources/DLSU.png" alt="DLSU logo" width="100px"></img><a>
+<a href="https://www.dlsu.edu.ph/" target="_blank" rel="noopener noreferrer"><img id="dlsu" src="./Resources/DLSU.png" alt="DLSU logo" width="100px" ></img><a>
 <br></br>
 
 <h3>
@@ -67,14 +67,14 @@ I'm primarily focused on full-stack web development using Javascript frameworks 
 <ul>
    <li><strong>Milaor Inventory Management System</strong> <span> - This website was built to manage and track the flow of inventories and item consumption of the client, a truck logistics company.  The website is also able to generate reports as well as compute and suggest what items to be restocked and ordered.  The technologies used for this project are Next.js and mongoDB.</span>
      <br></br>
-      <a href="https://github.com/Hideki-Kawachi/itisdev-mp">View Repository Here</a>
+      <a href="https://github.com/Hideki-Kawachi/itisdev-mp" target="_blank" rel="noopener noreferrer">View Repository Here</a>
   </li>
   <br></br>
   <li><strong>Simply Cookie</strong> <span> - An experimental e-commerce website to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
     <br></br>
-    <a href="https://github.com/Hideki-Kawachi/simply-cookie">View Repository Here</a>
+    <a href="https://github.com/Hideki-Kawachi/simply-cookie" target="_blank" rel="noopener noreferrer">View Repository Here</a>
     <br></br>
-    <a href="https://simply-cookie.vercel.app/">View Website Here</a>
+    <a href="https://simply-cookie.vercel.app/" target="_blank" rel="noopener noreferrer">View Website Here</a>
   </li>  
 </ul>
 
@@ -93,7 +93,7 @@ I'm primarily focused on full-stack web development using Javascript frameworks 
 
 <h3>Contact Details</h3>
 <ul>
-  <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
+  <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
   </li>
    <li><span>Gmail - hideki.kawachi17@gmail.com</span>
   </li>
