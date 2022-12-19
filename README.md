@@ -88,3 +88,13 @@ I'm primarily focused on full-stack web development using Javascript frameworks 
     <strong>Programs Committee Executive - Technology Summit 2021, La Salle Computer Society</strong>
   </li>
 </ul>
+
+<h3>Contact Details</h3>
+<ul>
+  <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
+  </li>
+   <li><span>Gmail - hideki.kawachi17@gmail.com</span>
+  </li>
+  </ul>
+
+
