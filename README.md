@@ -73,6 +73,8 @@ I'm primarily focused on full-stack web development using Javascript frameworks 
   <li><strong>Simply Cookie</strong> <span> - An experimental e-commerce website to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
     <br></br>
     <a href="https://github.com/Hideki-Kawachi/simply-cookie">View Repository Here</a>
+    <br></br>
+    <a href="https://simply-cookie.vercel.app/">View Website Here</a>
   </li>  
 </ul>
 
