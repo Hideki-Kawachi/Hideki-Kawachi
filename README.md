@@ -15,7 +15,7 @@ I'm an Information Systems student who is passionate on full-stack web and softw
   Skills
 </h3>
 <span>
-I'm primarily focused on full-stack web development using Javascript frameworks such as React and Next.js while using express along with mongoDB or mySQL for the backend.  I'm comfortable with and have prior experience in working with teams adopting agile methodologies such as scrum.
+I'm primarily focused on Software Development using Javascript frameworks such as React and Next.js while using express along with mongoDB or mySQL for the backend.  I'm comfortable with and have prior experience in working with teams adopting agile methodologies such as scrum.
 </span>
 <br></br>
 <div>
