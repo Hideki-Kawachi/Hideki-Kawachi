@@ -81,7 +81,7 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 <h3>Past Experiences</h3>
 <ul>
   <li>
-    <strong>Software Development Intern - ViiWorks</strong><span>(March 2023- May 2023)</span>
+    <strong>Software Development Intern - ViiWorks</strong><span> (March 2023- May 2023)</span>
   </li>
   <li>
     <strong>Director of Web Development - Google Developer Student Clubs De La Salle University</strong><span> (2022-2023)</span>
