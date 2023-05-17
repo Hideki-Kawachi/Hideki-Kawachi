@@ -57,7 +57,10 @@ I'm primarily focused on Software Development using Javascript frameworks such a
         <li>Javascript</li>
         <li>Express</li>
         <li>MongoDB</li>
+        <li>Firebase</li>
         <li>mySQL</li>
+        <li>PHP</li>
+        <li>Kotlin</li>
       </ul>
    </td>
  </tr>
@@ -65,23 +68,28 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 
 <h3>Past Projects</h3>
 <ul>
+  <li><strong>ePawn Pawnshop System</strong> <span> - A website built specifically to solve and improve the business operations of the client company.  The website is able to efficiently process inter-branch transactions as well as online customer transactions using the PayMongo API.  The technologies used to develop the project are Next.js, MongoDB, and Tailwind CSS for rapid development.</span>
+     <br></br>
+      <a href="https://github.com/Hideki-Kawachi/epawn" target="_blank" rel="noopener noreferrer">View Repository Here</a>
+  </li>
    <li><strong>Milaor Inventory Management System</strong> <span> - This website was built to manage and track the flow of inventories and item consumption of the client, a truck logistics company.  The website is also able to generate reports as well as compute and suggest what items to be restocked and ordered.  The technologies used for this project are Next.js and mongoDB.</span>
      <br></br>
       <a href="https://github.com/Hideki-Kawachi/itisdev-mp" target="_blank" rel="noopener noreferrer">View Repository Here</a>
+      <a href="https://milaor-inventory-system.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Demo Here</a>
   </li>
   <br></br>
   <li><strong>Simply Cookie</strong> <span> - An experimental e-commerce website to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
     <br></br>
     <a href="https://github.com/Hideki-Kawachi/simply-cookie" target="_blank" rel="noopener noreferrer">View Repository Here</a>
     <br></br>
-    <a href="https://simply-cookie.vercel.app/" target="_blank" rel="noopener noreferrer">View Website Here</a>
+    <a href="https://simply-cookie.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Demo Here</a>
   </li>  
 </ul>
 
 <h3>Past Experiences</h3>
 <ul>
   <li>
-    <strong>Software Development Intern - ViiWorks</strong><span> (March 2023- May 2023)</span>
+    <strong>Software Developer Intern - ViiWorks</strong><span> (March 2023- May 2023)</span>
   </li>
   <li>
     <strong>Director of Web Development - Google Developer Student Clubs De La Salle University</strong><span> (2022-2023)</span>
@@ -96,6 +104,8 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 
 <h3>Contact Details</h3>
 <ul>
+  <li>Website Portfolio - <a href="https://hideki-kawachi.vercel.app/" target="_blank" rel="noopener noreferrer">https://hideki-kawachi.vercel.app/</a>
+   </li
   <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
   </li>
    <li><span>Gmail - hideki.kawachi17@gmail.com</span>
