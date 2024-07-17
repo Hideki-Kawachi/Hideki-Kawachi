@@ -77,14 +77,12 @@ I'm primarily focused on Software Development using Javascript frameworks such a
      <br></br>
       <a href="https://github.com/Hideki-Kawachi/itisdev-mp" target="_blank" rel="noopener noreferrer">View Repository Here</a>
       <br></br>
-      <a href="https://milaor-inventory-system.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Demo Here</a>
   </li>
   <br></br>
   <li><strong>Simply Cookie e-Commerce Platform</strong> <span> - An experimental e-commerce website to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
     <br></br>
     <a href="https://github.com/Hideki-Kawachi/simply-cookie" target="_blank" rel="noopener noreferrer">View Repository Here</a>
     <br></br>
-    <a href="https://simply-cookie.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Demo Here</a>
   </li>  
 </ul>
 
