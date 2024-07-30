@@ -1,8 +1,12 @@
 <h1>Ron Hideki L. Kawachi</h1>
-<p>De La Salle University Manila</p>
-<p>BS - Information Systems (2019-2024)</p>
 <a href="https://www.dlsu.edu.ph/" target="_blank" rel="noopener noreferrer"><img id="dlsu" src="./Resources/DLSU.png" alt="DLSU logo" width="100px" ></img><a>
-<br></br>
+<h3>De La Salle University Manila</h3>
+<span>BS - Information Systems (2019-2024)</span>
+
+<li>3.15 CGPA</li>
+<li>11 Time Dean's Lister Awardee</li>
+<li>Nominated for Excellence in Capstone Award</li>
+<li>DLSU Research Congress 2024 Participant</li>
 
 <h3>
   About me
