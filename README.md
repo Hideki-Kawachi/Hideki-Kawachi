@@ -8,14 +8,17 @@
   About me
 </h3>
 <span>
-I'm an Information Systems student who is passionate on full-stack web and software development.  What I enjoy most about coding is the satisfaction of making ideas come to life and the problem solving aspect that comes with it.
+I am an aspiring software developer with an urge to garner experience from different fields and industries. I am eager to use my knowledge and skills in solving real-world problems while collectively gaining valuable skills that I may need in the future
 </span>
 
 <h3>
   Skills
 </h3>
 <span>
-I'm primarily focused on Software Development using Javascript frameworks such as React and Next.js while using express along with mongoDB or mySQL for the backend.  I'm comfortable with and have prior experience in working with teams adopting agile methodologies such as scrum.
+I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend. I also have experience developing mobile applications for Android using Kotlin and Java.
+</span>
+<br></br>
+<span>I’ve also had the opportunity to work with several teams developing and designing projects to solve issues that client companies face. In addition, I was also able to lead the development of some projects, most notably our capstone project which we were nominated for getting an excellence in capstone award.
 </span>
 <br></br>
 <div>
@@ -46,19 +49,21 @@ I'm primarily focused on Software Development using Javascript frameworks such a
    </td>
     <td>
       <ul>
-        <li>Javascript</li>
+        <li>HTML</li>
         <li>CSS</li>
+        <li>TailwindCSS</li>
         <li>SASS</li>
         <li>Figma</li>
       </ul>
    </td>
    <td>
       <ul>
-        <li>Javascript</li>
+        <li>Node.js</li>
         <li>Express</li>
         <li>MongoDB</li>
         <li>Firebase</li>
         <li>mySQL</li>
+        <li>supabase</li>
         <li>PHP</li>
         <li>Kotlin</li>
       </ul>
@@ -68,7 +73,12 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 
 <h3>Past Projects</h3>
 <ul>
-  <li><strong>ePawn Pawnshop System</strong> <span> - A website built specifically to solve and improve the business operations of the client company.  The website is able to efficiently process inter-branch transactions as well as online customer transactions using the PayMongo API.  The technologies used to develop the project are Next.js, MongoDB, and Tailwind CSS for rapid development.</span>
+  <li><strong>Hisight Outcome Based Education System</strong> <span> - This project was made to identify and solve the current issues being experienced by higher education institutions with regards to outcome based education. To accomodate a wide range of colleges and universities, the developers focused on integrating with Canvas LMS, one of the most prominent learning management systems available.</span>
+     <br></br>
+      <span>This integration led to the development of Hisight which enables institutions to comply with the Commission of Higher Education's Outcome Based Education guidelines while facilitating continuous quality improvement through modules such as curriculum development, course development, multi-level analytics, term-end report generation, and program assessment.  The technologies used for this project are Next.js, Supabase, Tailwind CSS, and integration with Canvas' REST API.</span>
+  </li>
+  <br></br>
+  <li><strong>ePawn Pawnshop System</strong> <span> - The main goal of this project was to analyze and identify the present within the client's internal processes and systems and provide solutions. The main features of the system is item flow tracking, vehicle history tracking, and report generation.  The website is able to efficiently process inter-branch transactions as well as online customer transactions using the PayMongo API.  The technologies used to develop the project are Next.js, MongoDB, and Tailwind CSS for rapid development.</span>
      <br></br>
       <a href="https://github.com/Hideki-Kawachi/epawn" target="_blank" rel="noopener noreferrer">View Repository Here</a>
   </li>
@@ -76,10 +86,9 @@ I'm primarily focused on Software Development using Javascript frameworks such a
    <li><strong>Milaor Inventory Management System</strong> <span> - This website was built to manage and track the flow of inventories and item consumption of the client, a truck logistics company.  The website is also able to generate reports as well as compute and suggest what items to be restocked and ordered.  The technologies used for this project are Next.js and mongoDB.</span>
      <br></br>
       <a href="https://github.com/Hideki-Kawachi/itisdev-mp" target="_blank" rel="noopener noreferrer">View Repository Here</a>
-      <br></br>
   </li>
   <br></br>
-  <li><strong>Simply Cookie e-Commerce Platform</strong> <span> - An experimental e-commerce website to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
+  <li><strong>Simply Cookie Product Platform</strong> <span> - An experimental platform to handle online orders for the business.  The main goal for the design of the website is for it to be responsive and to have fluid interface animations.  New technologies such as Next.js for the framework, framer motion for the animations, and SASS for the styling, were also in making this website.</span>
     <br></br>
     <a href="https://github.com/Hideki-Kawachi/simply-cookie" target="_blank" rel="noopener noreferrer">View Repository Here</a>
     <br></br>
@@ -89,10 +98,13 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 <h3>Past Experiences</h3>
 <ul>
   <li>
-    <strong>Software Developer Intern - ViiWorks</strong><span> (March 2023- May 2023)</span>
+    <strong>Front End Developer Intern - LOPhils</strong><span> (Sept 2023 - Dec 2023)</span>
   </li>
   <li>
-    <strong>Director of Web Development - Google Developer Student Clubs De La Salle University</strong><span> (2022-2023)</span>
+    <strong>Software Developer Intern - ViiWorks</strong><span> (March 2023 - May 2023)</span>
+  </li>
+  <li>
+    <strong>Director of Web Development - Google Developer Student Clubs De La Salle University</strong><span> (Oct 2022 - Aug 2023)</span>
   </li>
   <li>
     <strong>Corporate Relations Committee Executive - Hacker Cup 2021, La Salle Computer Society</strong>
@@ -104,7 +116,7 @@ I'm primarily focused on Software Development using Javascript frameworks such a
 
 <h3>Contact Details</h3>
 <ul>
-  <li>Website Portfolio - <a href="https://hideki-kawachi.vercel.app/" target="_blank" rel="noopener noreferrer">https://hideki-kawachi.vercel.app/</a>
+  <li>Online Portfolio - <a href="https://hideki-kawachi.vercel.app/" target="_blank" rel="noopener noreferrer">https://hideki-kawachi.vercel.app/</a>
   </li>
   <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
   </li>
