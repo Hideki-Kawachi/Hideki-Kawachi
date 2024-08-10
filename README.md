@@ -49,6 +49,7 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
       <ul>
         <li>React</li>
         <li>Next.js</li>
+        <li>Spring Boot</li>
       </ul>
    </td>
     <td>
@@ -70,6 +71,7 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
         <li>supabase</li>
         <li>PHP</li>
         <li>Kotlin</li>
+        <li>Java</li>
       </ul>
    </td>
  </tr>
