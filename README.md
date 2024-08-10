@@ -19,7 +19,7 @@ I am an aspiring software developer with an urge to garner experience from diffe
   Skills
 </h3>
 <span>
-I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend. I also have experience developing mobile applications for Android using Kotlin and Java.
+I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend.  Additionally, I've also had experience doing small projects using Java, Spring Boot. I've also developed mobile applications for Android using Kotlin.
 </span>
 <br></br>
 <span>I’ve also had the opportunity to work with several teams developing and designing projects to solve issues that client companies face. In addition, I was also able to lead the development of some projects, most notably our capstone project which we were nominated for getting an excellence in capstone award.
