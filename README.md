@@ -3,7 +3,7 @@
 <h3>De La Salle University Manila</h3>
 <span>BS - Information Systems (2019-2024)</span>
 
-<li>3.15 CGPA</li>
+<li>3.19 CGPA</li>
 <li>11 Time Dean's Lister Awardee</li>
 <li>Nominated for Excellence in Capstone Award</li>
 <li>DLSU Research Congress 2024 Participant</li>
