@@ -5,7 +5,7 @@
 
 <li>3.19 CGPA</li>
 <li>11 Time Dean's Lister Awardee</li>
-<li>Nominated for Excellence in Capstone Award</li>
+<li>Excellence in Capstone Awardee</li>
 <li>DLSU Research Congress 2024 Participant</li>
 
 <h3>
@@ -19,10 +19,10 @@ I am an aspiring software developer with an urge to garner experience from diffe
   Skills
 </h3>
 <span>
-I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend.  Additionally, I've also had experience doing small projects using Java, Spring Boot. I've also developed mobile applications for Android using Kotlin.
+I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend.  Additionally, I've also had experience doing small projects using Java, Spring Boot. Aside from that, I've had experience developing mobile applications for Android using Kotlin as well.
 </span>
 <br></br>
-<span>I’ve also had the opportunity to work with several teams developing and designing projects to solve issues that client companies face. In addition, I was also able to lead the development of some projects, most notably our capstone project which we were nominated for getting an excellence in capstone award.
+<span>I’ve also had the opportunity to work with several teams developing and designing projects to solve issues that client companies face. In addition, I was also able to lead the development of some of my projects using an agile approach.
 </span>
 <br></br>
 <div>
