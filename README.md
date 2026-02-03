@@ -12,14 +12,18 @@
   About me
 </h3>
 <span>
-I am an aspiring software developer with an urge to garner experience from different fields and industries. I am eager to use my knowledge and skills in solving real-world problems while collectively gaining valuable skills that I may need in the future
+Software Engineer / Full-Stack Developer driven by curiosity and a strong interest in building practical, well-designed web applications. I enjoy exploring new technologies, and solving real-world problems through software.
+</span>
+<br></br>
+<span>
+I work across frontend and backend development, contributing to feature development, system improvements, and API integrations. I also actively build side projects, such as Hisight, an outcome-based education system focused on analytics and CHED compliance, and Epawn, a pawnshop system supporting inter-branch and online transactions.
 </span>
 
 <h3>
   Skills
 </h3>
 <span>
-I’m primarily focused on Web Development using Javascript frameworks such as React and Next.js while using Express and Node.js along with databases like mongoDB , Firebase, mySQL, and supabase for the backend.  Additionally, I've also had experience doing small projects using Java, Spring Boot. Aside from that, I've had experience developing mobile applications for Android using Kotlin as well.
+I’m primarily focused on Web Development using Javascript frameworks such as React, Next.js, and AngularJS while using Express, Node.js, and C# .Net along with databases like mongoDB, Firebase, mySQL, and supabase for the backend.  Additionally, I've also had experience doing small projects using Java, Spring Boot and Python using FastAPI as well.
 </span>
 <br></br>
 <span>I’ve also had the opportunity to work with several teams developing and designing projects to solve issues that client companies face. In addition, I was also able to lead the development of some of my projects using an agile approach.
@@ -49,7 +53,10 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
       <ul>
         <li>React</li>
         <li>Next.js</li>
+        <li>AngularJS</li>
         <li>Spring Boot</li>
+        <li>.Net</li>
+        <li>FastAPI</li>
       </ul>
    </td>
     <td>
@@ -72,6 +79,8 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
         <li>PHP</li>
         <li>Kotlin</li>
         <li>Java</li>
+        <li>Python</li>
+        <li>C#</li>
       </ul>
    </td>
  </tr>
@@ -104,6 +113,9 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
 <h3>Past Experiences</h3>
 <ul>
   <li>
+    <strong>Fullstack Developer - Dashboard Insights</strong><span> (Nov 2024 - Present)</span>
+  </li>
+  <li>
     <strong>Front End Developer Intern - LOPhils</strong><span> (Sept 2023 - Dec 2023)</span>
   </li>
   <li>
@@ -122,12 +134,8 @@ I’m primarily focused on Web Development using Javascript frameworks such as R
 
 <h3>Contact Details</h3>
 <ul>
-  <li>Online Portfolio - <a href="https://hideki-kawachi.vercel.app/" target="_blank" rel="noopener noreferrer">https://hideki-kawachi.vercel.app/</a>
-  </li>
   <li>LinkedIn - <a href="https://www.linkedin.com/in/ron-hideki-kawachi-332623205/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ron-hideki-kawachi-332623205/</a>
   </li>
-   <li><span>Gmail - hideki.kawachi17@gmail.com</span>
-  </li>
-  </ul>
+</ul>
 
 
